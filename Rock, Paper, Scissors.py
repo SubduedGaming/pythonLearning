@@ -21,7 +21,7 @@ play_again = 1
 
 while play_again == 1:
     play_again = 0
-    player1 = input("What is your choise? R,P,S ").lower()
+    player1 = input("What is your choice? R,P,S ").lower()
     print(ai_choice)
     time.sleep(1)
     if ai == 1 and player1 == "p":
@@ -33,6 +33,6 @@ while play_again == 1:
     elif ai_choice == player1:
         print("you draw")
     else:
-        print("You loose")
+        print("You lose")
     print("Would you like to play again? 1=yes 0=no")
     play_again = int(input())

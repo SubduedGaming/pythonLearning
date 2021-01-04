@@ -18,5 +18,9 @@ if max_val > threshold:
     print("found your button ")
     
     cv.rectangle(eve_station_img, top_left, bottom_right, color=(0, 255, 0), thickness=2, lineType=cv.LINE_4)
+
+    cv.imshow("Result", search)
+    cv.waitKey()
+
 else:
     print("Sorry match not found. ")

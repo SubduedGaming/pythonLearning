@@ -28,7 +28,7 @@ if max_val > threshold:
     
     #setting top and bottom locations for box
     top_left = max_loc
-    bottom_right = (top_left[0] + undock_w, top_left[1] + undock_h)
+    bottom_right = (top_left[0] + undock_h, top_left[1] + undock_w)
     
     cv.rectangle(eve_station_img, top_left, bottom_right, color=(0, 255, 0), thickness=2, lineType=cv.LINE_4)
 

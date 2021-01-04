@@ -32,8 +32,12 @@ if max_val > threshold:
     
     cv.rectangle(eve_station_img, top_left, bottom_right, color=(0, 255, 0), thickness=2, lineType=cv.LINE_4)
 
-    cv.imshow("Result", eve_station_img)
-    cv.waitKey()
+    #cv.imshow("Result", eve_station_img)
+    #cv.waitKey()
+
+    cv.imwrite("Result.jpg", eve_station_img)
+
+
 
 else:
     print("Sorry match not found. ")

@@ -23,8 +23,8 @@ if max_val > threshold:
     print("found your button ")
 
     #Getting Dimenstions of target img
-    undock_w = undock.shape(1)
-    undock_h = undock.shape(0)
+    undock_w = undock.shape(0)
+    undock_h = undock.shape(1)
     
     #setting top and bottom locations for box
     top_left = max_loc

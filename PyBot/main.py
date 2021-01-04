@@ -1,28 +1,11 @@
-import time
+import cv2 as cv
+import numpy as np 
 import pyautogui
 
 
+eve_station_img = cv.imread('eve-screenshot.jpg', cv.IMREAD_UNCHANGED)
+undock = cv.imread('undock-button.jpg', cv.IMREAD_UNCHANGED)
 
-def main():
-    
-    
-    pyautogui.FAILSAFE = True
-    
-    
-    #Countdown Timer
-    print("Starting", end="")
-    for i in range(1, 10):
-        print(".", end="")
-        time.sleep(1)
-    
-    #Actions
-    pyautogui.moveTo(100, 100, duration=1)
-    
-    
-    
-    
-    
-    
-    
-if __name__ == "__main__":
-    main()
+search = cv.matchTemplate(eve_station_img, undock, cv.TM_CCOEFF_NORMED)
+
+cv.imshow('results', search)

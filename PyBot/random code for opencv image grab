@@ -1,0 +1,53 @@
+#Getting best match location
+min_val, max_val, min_loc, max_loc = cv.minMaxLoc(search)
+
+
+
+if max_val > threshold:
+    print("found your button ")
+
+    #Getting Dimenstions of target img
+    undock_w = undock.shape[0]
+    undock_h = undock.shape[1]
+    
+    #setting top and bottom locations for box
+    top_left = max_loc
+    bottom_right = (top_left[0] + undock_h, top_left[1] + undock_w)
+    
+    cv.rectangle(eve_station_img, top_left, bottom_right, color=(0, 255, 0), thickness=2, lineType=cv.LINE_4)
+
+    #cv.imshow("Result", eve_station_img)
+    #cv.waitKey()
+
+    cv.imwrite("Result.jpg", eve_station_img)
+
+
+
+else:
+    print("Sorry match not found. ")
+
+
+
+    locations = np.where(search >= threshold)
+
+print(locations)
+
+
+#we zip the locations up in to position tuples (x, y)
+locations = list(zip(*locations[::-1]))
+print(locations)
+
+
+
+
+'''
+#find the box position 
+top_left = (x, y)
+bottom_right = (x + w, y + h)
+ #draw the box
+cv.rectangle(eve_station_img, top_left, bottom_right, line_color, line_type)
+'''
+
+
+
+        

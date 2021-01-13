@@ -1,29 +1,32 @@
 from connector import *
 
-def input_user():
-    global username
-    global l_name
-    global f_name
-    global password
-    
-    print("You are about to make a new user in the database. Please input a username: ")
-    username = input("")
-    
-    f_name = input("What is the first name? ")
-    l_name = input("What is the last name? ")
-    password = input("Please make a password: ")
-    print([username,
-           f_name,
-           l_name,
-           password])
-    
+f_name = "tom"
+l_name = "tit"
+password = "took"
+username = "shit"
+ 
     
 
 def send_data():
+    global cursor
+    add_user = """INSERT INTO users (f_name, l_name, password, username) VALUES (%s, %s, %s, %s).format(record)"""
+    cursor.execute(add_user)
+    connection.commit
     
+def connect():
+    global connection
+    global cursor
+    if connection_success:
+        connection = mysql.connector.connect(host='192.168.0.16',
+                                         database='python',
+                                         user='python',
+                                         password='Buddy456')
+        cursor = connection.cursor()
 
 
 while connection_success:
-    input_user()
+    connect()
+    record = (f_name, l_name, password, username)
+    #input_user()
     send_data()
 

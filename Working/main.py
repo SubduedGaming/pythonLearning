@@ -1,74 +1,57 @@
-from random import seed
-from random import randint
+import random
+import time
 
-#Variables
-global old_enough
-old_enough = "false"
-global points
-points = 0
-global lives
-lives = 3
-global name
-name = ""
+seed = 0
+random.seed(seed)
+class Player:
+    def __init__(self, name):
+        self.numberGuessed = 0
+        self.name = name
+        self.lives = 10
+    def __str__(self):
+        return self.name
+    def placeGuess(self):
+        self.playerGuess = input("What do you guess?: ")
+    def looseLife(self):
+        self.lives = self.lives - 1
+        print("ouch")
+    def isNumberGuessed(self):
+        self.numberGuessed = 1
+        print("Congratulations")
 
-def chance():
-    seed()
-    chance_win = randint(1, 10)
-
-
-
-def age_verify():
-    global old_enough
-    global name
-    name = input("Welcome, What is your name? ")
-    print("Hello ", name + ".", "How old are you?")
-    age = input()
-    if age >= "18":
-        old_enough = "true"
-    else:
-        print("Sorry you are too young for this game")
-
-def game():
-    global points
-    global lives
-    number = randint(0, 20)
-    next_number = randint(0, 20)
-    print("1st Number = ", number)
-    high_low = input("Higher or Lower? ").lower()
-    if high_low == "higher":
-        print("2nd Number = ", next_number)
-        if next_number >= number:
-            points += 1
-            print("points = ", points)
-        else:
-            lives -= 1
-            print("lives = ", lives)
-    elif high_low == "lower":
-        print("2nd Number = ", next_number)
-        if next_number <= number:
-            points += 1
-            print("points = ", points)
-        else:
-            lives -= 1
-            print("lives = ", lives)
-
-def leaderboard():
-    global text_file
-    text_file = open("leaderboard.txt", "a")
-    text_file.write(name + ",")
-    text_file.write(" " + str(points))
-    text_file.write("\n")
+class Game:
+    def __init__(self):
+        self.numberToGuess = 0
+    def __str__(self):
+        return self.numberToGuess
+    def randomNumber(self):
+        self.numberToGuess = random.randint(0, 50)
+        print("Number Selected")
 
 
-age_verify()
-
-#debug age
-#old_enough = "true"
-
-while old_enough == "true" and lives > 0:
-    game()
-else:
-    lives = 3
-    leaderboard()
-
+wantToPlay = input("Do you want to play? yes or no?: ").lower()
+while wantToPlay == "yes":
+    name = input("What is your name?")
+    player = Player(name)
+    print(player.name)
+    game = Game()
+    lives = player.lives
+    game.randomNumber()
+    numberToGuess = game.numberToGuess
+    numberOfTries = 0
+    time.sleep(1)
+    while lives > 0 and player.numberGuessed == 0:
+        numberOfTries = numberOfTries + 1
+        player.placeGuess()
+        time.sleep(0.5)
+        if player.playerGuess == str(numberToGuess):
+            print("Well done, you guessed the number correctly!")
+            player.isNumberGuessed()
+        elif player.playerGuess < str(numberToGuess):
+            print("You guessed too low!\nLoose a life ")
+            player.looseLife()
+        elif player.playerGuess > str(numberToGuess):
+            print("You guessed too high!\nLoose a life ")
+            player.looseLife()
+        print(numberOfTries)
 

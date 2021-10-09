@@ -1,14 +1,31 @@
-year = int(input("What year? "))
-year_4 = year % 4
-year_100 = year % 100
-year_400 = year % 400
+import time
 
-if type(year_4) is int and type(year_100) is int and type(year_400) is int:
-    print("The year", year, "is a leap year")
-    if type(year_100) is float and type(year_400) is float:
-        print("Year not leap")
-if type(year_4) is int:
-    print("leap year")
+go = True
+while go == True:
+    print("This is a leap year calculator. Hope it helps")
+    time.sleep(1)
+    year = int(input("What year? "))
+    y4 = year % 4
+    y400 = year % 400
+    print(y4)
+    print(y400)
+    yearType = input("Is the year a century? e.g.2600 or 300 or 1900 [yes or no]").lower()
+    if yearType == "yes":
+        if y400 == 0:
+            print("The year ", year, " is a Leap Year.")
+        else:
+            print("The year ", year, " is not a Leap Year.")
+    else:
+        if y4 == 0:
+            print("The year ", year, " is a Leap Year.")
+        else:
+            print("The year ", year, " is not a Leap Year.")
+
+
+
+
+
+
 
 
 

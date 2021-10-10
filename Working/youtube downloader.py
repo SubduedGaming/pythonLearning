@@ -1,7 +1,7 @@
 #sources
 from pytube import YouTube
 
-link = input("What is the Youtube link? ")
+link = input("Please paste your link now: ")
 yt = YouTube(link)
 
 #Title

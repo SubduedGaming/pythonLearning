@@ -1,0 +1,754 @@
+
+
+Name:  mum Age:  0 Thrist:  48 Hunger:  48
+None
+I drink some water. Yum..That was refreshing.
+I eat some food. Yum..That was tasty.
+
+
+Name:  dad Age:  0 Thrist:  48 Hunger:  48
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  1 Thrist:  46 Hunger:  46
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  1 Thrist:  56 Hunger:  46
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  mum Age:  2 Thrist:  44 Hunger:  44
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  2 Thrist:  54 Hunger:  44
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  3 Thrist:  42 Hunger:  42
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  dad Age:  3 Thrist:  52 Hunger:  42
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  4 Thrist:  50 Hunger:  40
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  4 Thrist:  50 Hunger:  40
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  mum Age:  5 Thrist:  48 Hunger:  38
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  dad Age:  5 Thrist:  48 Hunger:  48
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  6 Thrist:  46 Hunger:  36
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  6 Thrist:  46 Hunger:  46
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  7 Thrist:  44 Hunger:  34
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  dad Age:  7 Thrist:  54 Hunger:  44
+None
+I cant find any water right now.
+
+
+Name:  mum Age:  8 Thrist:  42 Hunger:  32
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  dad Age:  8 Thrist:  52 Hunger:  42
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  mum Age:  9 Thrist:  40 Hunger:  40
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  9 Thrist:  50 Hunger:  40
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  10 Thrist:  38 Hunger:  38
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  dad Age:  10 Thrist:  48 Hunger:  38
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  11 Thrist:  46 Hunger:  36
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  11 Thrist:  46 Hunger:  36
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  mum Age:  12 Thrist:  44 Hunger:  34
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  dad Age:  12 Thrist:  44 Hunger:  44
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  13 Thrist:  42 Hunger:  32
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  13 Thrist:  42 Hunger:  42
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  14 Thrist:  40 Hunger:  30
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  dad Age:  14 Thrist:  50 Hunger:  40
+None
+I cant find any water right now.
+
+
+Name:  mum Age:  15 Thrist:  38 Hunger:  28
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  dad Age:  15 Thrist:  48 Hunger:  38
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  mum Age:  16 Thrist:  36 Hunger:  36
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  16 Thrist:  46 Hunger:  36
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  17 Thrist:  34 Hunger:  34
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  dad Age:  17 Thrist:  44 Hunger:  34
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  18 Thrist:  42 Hunger:  32
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  18 Thrist:  42 Hunger:  32
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  mum Age:  19 Thrist:  40 Hunger:  30
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  dad Age:  19 Thrist:  40 Hunger:  40
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  20 Thrist:  38 Hunger:  28
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  20 Thrist:  38 Hunger:  38
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  21 Thrist:  36 Hunger:  26
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  dad Age:  21 Thrist:  46 Hunger:  36
+None
+I cant find any water right now.
+
+
+Name:  mum Age:  22 Thrist:  34 Hunger:  24
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  dad Age:  22 Thrist:  44 Hunger:  34
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  mum Age:  23 Thrist:  32 Hunger:  32
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  23 Thrist:  42 Hunger:  32
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  24 Thrist:  30 Hunger:  30
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  dad Age:  24 Thrist:  40 Hunger:  30
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  25 Thrist:  38 Hunger:  28
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  25 Thrist:  38 Hunger:  28
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  mum Age:  26 Thrist:  36 Hunger:  26
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  dad Age:  26 Thrist:  36 Hunger:  36
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  27 Thrist:  34 Hunger:  24
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  27 Thrist:  34 Hunger:  34
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  28 Thrist:  32 Hunger:  22
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  dad Age:  28 Thrist:  42 Hunger:  32
+None
+I cant find any water right now.
+
+
+Name:  mum Age:  29 Thrist:  30 Hunger:  20
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  dad Age:  29 Thrist:  40 Hunger:  30
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  mum Age:  30 Thrist:  28 Hunger:  28
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  30 Thrist:  38 Hunger:  28
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  31 Thrist:  26 Hunger:  26
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  dad Age:  31 Thrist:  36 Hunger:  26
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  32 Thrist:  34 Hunger:  24
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  32 Thrist:  34 Hunger:  24
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  mum Age:  33 Thrist:  32 Hunger:  22
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  dad Age:  33 Thrist:  32 Hunger:  32
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  34 Thrist:  30 Hunger:  20
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  34 Thrist:  30 Hunger:  30
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  35 Thrist:  28 Hunger:  18
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  dad Age:  35 Thrist:  38 Hunger:  28
+None
+I cant find any water right now.
+
+
+Name:  mum Age:  36 Thrist:  26 Hunger:  16
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  dad Age:  36 Thrist:  36 Hunger:  26
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  mum Age:  37 Thrist:  24 Hunger:  24
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  37 Thrist:  34 Hunger:  24
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  38 Thrist:  22 Hunger:  22
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  dad Age:  38 Thrist:  32 Hunger:  22
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  39 Thrist:  30 Hunger:  20
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  39 Thrist:  30 Hunger:  20
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  mum Age:  40 Thrist:  28 Hunger:  18
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  dad Age:  40 Thrist:  28 Hunger:  28
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  41 Thrist:  26 Hunger:  16
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  41 Thrist:  26 Hunger:  26
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  42 Thrist:  24 Hunger:  14
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  dad Age:  42 Thrist:  34 Hunger:  24
+None
+I cant find any water right now.
+
+
+Name:  mum Age:  43 Thrist:  22 Hunger:  12
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  dad Age:  43 Thrist:  32 Hunger:  22
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  mum Age:  44 Thrist:  20 Hunger:  20
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  44 Thrist:  30 Hunger:  20
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  45 Thrist:  18 Hunger:  18
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  dad Age:  45 Thrist:  28 Hunger:  18
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  46 Thrist:  26 Hunger:  16
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  46 Thrist:  26 Hunger:  16
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  mum Age:  47 Thrist:  24 Hunger:  14
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  dad Age:  47 Thrist:  24 Hunger:  24
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  48 Thrist:  22 Hunger:  12
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  48 Thrist:  22 Hunger:  22
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  49 Thrist:  20 Hunger:  10
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  dad Age:  49 Thrist:  30 Hunger:  20
+None
+I cant find any water right now.
+
+
+Name:  mum Age:  50 Thrist:  18 Hunger:  8
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  dad Age:  50 Thrist:  28 Hunger:  18
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  mum Age:  51 Thrist:  16 Hunger:  16
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  51 Thrist:  26 Hunger:  16
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  52 Thrist:  14 Hunger:  14
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  dad Age:  52 Thrist:  24 Hunger:  14
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  53 Thrist:  22 Hunger:  12
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  53 Thrist:  22 Hunger:  12
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  mum Age:  54 Thrist:  20 Hunger:  10
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  dad Age:  54 Thrist:  20 Hunger:  20
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  55 Thrist:  18 Hunger:  8
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  55 Thrist:  18 Hunger:  18
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  56 Thrist:  16 Hunger:  6
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  dad Age:  56 Thrist:  26 Hunger:  16
+None
+I cant find any water right now.
+
+
+Name:  mum Age:  57 Thrist:  14 Hunger:  4
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  dad Age:  57 Thrist:  24 Hunger:  14
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  mum Age:  58 Thrist:  12 Hunger:  12
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  58 Thrist:  22 Hunger:  12
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  59 Thrist:  10 Hunger:  10
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  dad Age:  59 Thrist:  20 Hunger:  10
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  60 Thrist:  18 Hunger:  8
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  60 Thrist:  18 Hunger:  8
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  mum Age:  61 Thrist:  16 Hunger:  6
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  dad Age:  61 Thrist:  16 Hunger:  16
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  62 Thrist:  14 Hunger:  4
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  62 Thrist:  14 Hunger:  14
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  63 Thrist:  12 Hunger:  2
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  dad Age:  63 Thrist:  22 Hunger:  12
+None
+I cant find any water right now.
+
+
+Name:  mum Age:  64 Thrist:  10 Hunger:  0
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+Name:  dad Age:  64 Thrist:  20 Hunger:  10
+None
+I cant find any water right now.
+I eat some food. Yum..That was tasty.
+
+
+I'm sorry, but mum died. she died at age:  65
+Name:  mum Age:  65 Thrist:  10 Hunger:  10
+None
+
+
+Name:  dad Age:  65 Thrist:  18 Hunger:  8
+None
+I cant find any food right now.
+
+
+
+
+Name:  dad Age:  66 Thrist:  16 Hunger:  6
+None
+I cant find any food right now.
+
+
+
+
+Name:  dad Age:  67 Thrist:  14 Hunger:  4
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+
+
+Name:  dad Age:  68 Thrist:  22 Hunger:  2
+None
+I drink some water. Yum..That was refreshing.
+
+
+
+
+Name:  dad Age:  69 Thrist:  20 Hunger:  0
+None
+I cant find any water right now.
+
+
+
+
+I'm sorry, but dad died. He died at age:  70
+Name:  dad Age:  70 Thrist:  20 Hunger:  0
+None
+Parents are dead

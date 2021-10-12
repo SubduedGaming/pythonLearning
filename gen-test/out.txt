@@ -2,7 +2,6 @@
 
 Name:  mum Age:  0 Thirst:  48 Hunger:  48
 None
-I drink some water. Yum..That was refreshing.
 I eat some food. Yum..That was tasty.
 
 
@@ -12,859 +11,820 @@ I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  1 Thirst:  56 Hunger:  56
+Name:  mum Age:  1 Thirst:  46 Hunger:  56
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  1 Thirst:  46 Hunger:  46
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  2 Thirst:  44 Hunger:  54
 None
 I drink some water. Yum..That was refreshing.
 I cant find any food right now.
 
 
-Name:  dad Age:  1 Thirst:  46 Hunger:  48
+Name:  dad Age:  2 Thirst:  44 Hunger:  44
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  3 Thirst:  52 Hunger:  52
 None
 I cant find any water right now.
 
 
-Name:  mum Age:  2 Thirst:  64 Hunger:  54
+Name:  dad Age:  3 Thirst:  42 Hunger:  42
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  2 Thirst:  44 Hunger:  46
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  3 Thirst:  62 Hunger:  52
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  3 Thirst:  42 Hunger:  44
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  mum Age:  4 Thirst:  60 Hunger:  50
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  dad Age:  4 Thirst:  50 Hunger:  42
-None
-I cant find any water right now.
-
-
-Name:  mum Age:  5 Thirst:  58 Hunger:  48
+Name:  mum Age:  4 Thirst:  50 Hunger:  50
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  5 Thirst:  48 Hunger:  40
+Name:  dad Age:  4 Thirst:  40 Hunger:  50
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  5 Thirst:  48 Hunger:  48
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  5 Thirst:  38 Hunger:  48
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  6 Thirst:  46 Hunger:  46
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  dad Age:  6 Thirst:  46 Hunger:  46
+None
+I cant find any water right now.
+
+
+Name:  mum Age:  7 Thirst:  44 Hunger:  44
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  6 Thirst:  56 Hunger:  56
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  6 Thirst:  46 Hunger:  38
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  7 Thirst:  54 Hunger:  54
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  dad Age:  7 Thirst:  44 Hunger:  36
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  mum Age:  8 Thirst:  62 Hunger:  52
-None
-I cant find any water right now.
-
-
-Name:  dad Age:  8 Thirst:  42 Hunger:  34
+Name:  dad Age:  7 Thirst:  44 Hunger:  44
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  9 Thirst:  60 Hunger:  50
+Name:  mum Age:  8 Thirst:  42 Hunger:  52
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  8 Thirst:  42 Hunger:  42
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  9 Thirst:  40 Hunger:  50
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  dad Age:  9 Thirst:  40 Hunger:  40
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  10 Thirst:  48 Hunger:  48
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  10 Thirst:  38 Hunger:  38
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  9 Thirst:  40 Hunger:  42
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  10 Thirst:  58 Hunger:  48
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  10 Thirst:  38 Hunger:  40
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  mum Age:  11 Thirst:  56 Hunger:  46
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  dad Age:  11 Thirst:  46 Hunger:  38
-None
-I cant find any water right now.
-
-
-Name:  mum Age:  12 Thirst:  54 Hunger:  44
+Name:  mum Age:  11 Thirst:  46 Hunger:  46
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  12 Thirst:  44 Hunger:  36
+Name:  dad Age:  11 Thirst:  36 Hunger:  46
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  12 Thirst:  44 Hunger:  44
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  12 Thirst:  34 Hunger:  44
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  13 Thirst:  42 Hunger:  42
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  dad Age:  13 Thirst:  42 Hunger:  42
+None
+I cant find any water right now.
+
+
+Name:  mum Age:  14 Thirst:  40 Hunger:  40
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  13 Thirst:  52 Hunger:  52
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  13 Thirst:  42 Hunger:  34
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  14 Thirst:  50 Hunger:  50
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  dad Age:  14 Thirst:  40 Hunger:  32
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  mum Age:  15 Thirst:  58 Hunger:  48
-None
-I cant find any water right now.
-
-
-Name:  dad Age:  15 Thirst:  38 Hunger:  30
+Name:  dad Age:  14 Thirst:  40 Hunger:  40
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  16 Thirst:  56 Hunger:  46
+Name:  mum Age:  15 Thirst:  38 Hunger:  48
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  15 Thirst:  38 Hunger:  38
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  16 Thirst:  36 Hunger:  46
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  dad Age:  16 Thirst:  36 Hunger:  36
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  17 Thirst:  44 Hunger:  44
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  17 Thirst:  34 Hunger:  34
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  16 Thirst:  36 Hunger:  38
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  17 Thirst:  54 Hunger:  44
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  17 Thirst:  34 Hunger:  36
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  mum Age:  18 Thirst:  52 Hunger:  42
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  dad Age:  18 Thirst:  42 Hunger:  34
-None
-I cant find any water right now.
-
-
-Name:  mum Age:  19 Thirst:  50 Hunger:  40
+Name:  mum Age:  18 Thirst:  42 Hunger:  42
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  19 Thirst:  40 Hunger:  32
+Name:  dad Age:  18 Thirst:  32 Hunger:  42
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  19 Thirst:  40 Hunger:  40
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  19 Thirst:  30 Hunger:  40
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  20 Thirst:  38 Hunger:  38
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  dad Age:  20 Thirst:  38 Hunger:  38
+None
+I cant find any water right now.
+
+
+Name:  mum Age:  21 Thirst:  36 Hunger:  36
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  20 Thirst:  48 Hunger:  48
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  20 Thirst:  38 Hunger:  30
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  21 Thirst:  46 Hunger:  46
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  dad Age:  21 Thirst:  36 Hunger:  28
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  mum Age:  22 Thirst:  54 Hunger:  44
-None
-I cant find any water right now.
-
-
-Name:  dad Age:  22 Thirst:  34 Hunger:  26
+Name:  dad Age:  21 Thirst:  36 Hunger:  36
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  23 Thirst:  52 Hunger:  42
+Name:  mum Age:  22 Thirst:  34 Hunger:  44
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  22 Thirst:  34 Hunger:  34
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  23 Thirst:  32 Hunger:  42
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  dad Age:  23 Thirst:  32 Hunger:  32
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  24 Thirst:  40 Hunger:  40
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  24 Thirst:  30 Hunger:  30
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  23 Thirst:  32 Hunger:  34
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  24 Thirst:  50 Hunger:  40
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  24 Thirst:  30 Hunger:  32
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  mum Age:  25 Thirst:  48 Hunger:  38
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  dad Age:  25 Thirst:  38 Hunger:  30
-None
-I cant find any water right now.
-
-
-Name:  mum Age:  26 Thirst:  46 Hunger:  36
+Name:  mum Age:  25 Thirst:  38 Hunger:  38
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  26 Thirst:  36 Hunger:  28
+Name:  dad Age:  25 Thirst:  28 Hunger:  38
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  26 Thirst:  36 Hunger:  36
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  26 Thirst:  26 Hunger:  36
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  27 Thirst:  34 Hunger:  34
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  dad Age:  27 Thirst:  34 Hunger:  34
+None
+I cant find any water right now.
+
+
+Name:  mum Age:  28 Thirst:  32 Hunger:  32
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  27 Thirst:  44 Hunger:  44
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  27 Thirst:  34 Hunger:  26
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  28 Thirst:  42 Hunger:  42
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  dad Age:  28 Thirst:  32 Hunger:  24
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  mum Age:  29 Thirst:  50 Hunger:  40
-None
-I cant find any water right now.
-
-
-Name:  dad Age:  29 Thirst:  30 Hunger:  22
+Name:  dad Age:  28 Thirst:  32 Hunger:  32
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  30 Thirst:  48 Hunger:  38
+Name:  mum Age:  29 Thirst:  30 Hunger:  40
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  29 Thirst:  30 Hunger:  30
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  30 Thirst:  28 Hunger:  38
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  dad Age:  30 Thirst:  28 Hunger:  28
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  31 Thirst:  36 Hunger:  36
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  31 Thirst:  26 Hunger:  26
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  30 Thirst:  28 Hunger:  30
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  31 Thirst:  46 Hunger:  36
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  31 Thirst:  26 Hunger:  28
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  mum Age:  32 Thirst:  44 Hunger:  34
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  dad Age:  32 Thirst:  34 Hunger:  26
-None
-I cant find any water right now.
-
-
-Name:  mum Age:  33 Thirst:  42 Hunger:  32
+Name:  mum Age:  32 Thirst:  34 Hunger:  34
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  33 Thirst:  32 Hunger:  24
+Name:  dad Age:  32 Thirst:  24 Hunger:  34
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  33 Thirst:  32 Hunger:  32
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  33 Thirst:  22 Hunger:  32
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  34 Thirst:  30 Hunger:  30
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  dad Age:  34 Thirst:  30 Hunger:  30
+None
+I cant find any water right now.
+
+
+Name:  mum Age:  35 Thirst:  28 Hunger:  28
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  34 Thirst:  40 Hunger:  40
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  34 Thirst:  30 Hunger:  22
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  35 Thirst:  38 Hunger:  38
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  dad Age:  35 Thirst:  28 Hunger:  20
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  mum Age:  36 Thirst:  46 Hunger:  36
-None
-I cant find any water right now.
-
-
-Name:  dad Age:  36 Thirst:  26 Hunger:  18
+Name:  dad Age:  35 Thirst:  28 Hunger:  28
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  37 Thirst:  44 Hunger:  34
+Name:  mum Age:  36 Thirst:  26 Hunger:  36
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  36 Thirst:  26 Hunger:  26
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  37 Thirst:  24 Hunger:  34
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  dad Age:  37 Thirst:  24 Hunger:  24
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  38 Thirst:  32 Hunger:  32
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  38 Thirst:  22 Hunger:  22
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  37 Thirst:  24 Hunger:  26
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  38 Thirst:  42 Hunger:  32
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  38 Thirst:  22 Hunger:  24
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  mum Age:  39 Thirst:  40 Hunger:  30
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  dad Age:  39 Thirst:  30 Hunger:  22
-None
-I cant find any water right now.
-
-
-Name:  mum Age:  40 Thirst:  38 Hunger:  28
+Name:  mum Age:  39 Thirst:  30 Hunger:  30
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  40 Thirst:  28 Hunger:  20
+Name:  dad Age:  39 Thirst:  20 Hunger:  30
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  40 Thirst:  28 Hunger:  28
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  40 Thirst:  18 Hunger:  28
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  41 Thirst:  26 Hunger:  26
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  dad Age:  41 Thirst:  26 Hunger:  26
+None
+I cant find any water right now.
+
+
+Name:  mum Age:  42 Thirst:  24 Hunger:  24
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  41 Thirst:  36 Hunger:  36
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  41 Thirst:  26 Hunger:  18
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  42 Thirst:  34 Hunger:  34
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  dad Age:  42 Thirst:  24 Hunger:  16
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  mum Age:  43 Thirst:  42 Hunger:  32
-None
-I cant find any water right now.
-
-
-Name:  dad Age:  43 Thirst:  22 Hunger:  14
+Name:  dad Age:  42 Thirst:  24 Hunger:  24
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  44 Thirst:  40 Hunger:  30
+Name:  mum Age:  43 Thirst:  22 Hunger:  32
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  43 Thirst:  22 Hunger:  22
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  44 Thirst:  20 Hunger:  30
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  dad Age:  44 Thirst:  20 Hunger:  20
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  45 Thirst:  28 Hunger:  28
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  45 Thirst:  18 Hunger:  18
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  44 Thirst:  20 Hunger:  22
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  45 Thirst:  38 Hunger:  28
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  45 Thirst:  18 Hunger:  20
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  mum Age:  46 Thirst:  36 Hunger:  26
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  dad Age:  46 Thirst:  26 Hunger:  18
-None
-I cant find any water right now.
-
-
-Name:  mum Age:  47 Thirst:  34 Hunger:  24
+Name:  mum Age:  46 Thirst:  26 Hunger:  26
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  47 Thirst:  24 Hunger:  16
+Name:  dad Age:  46 Thirst:  16 Hunger:  26
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  47 Thirst:  24 Hunger:  24
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  47 Thirst:  14 Hunger:  24
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  48 Thirst:  22 Hunger:  22
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  dad Age:  48 Thirst:  22 Hunger:  22
+None
+I cant find any water right now.
+
+
+Name:  mum Age:  49 Thirst:  20 Hunger:  20
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  48 Thirst:  32 Hunger:  32
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  48 Thirst:  22 Hunger:  14
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  49 Thirst:  30 Hunger:  30
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  dad Age:  49 Thirst:  20 Hunger:  12
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  mum Age:  50 Thirst:  38 Hunger:  28
-None
-I cant find any water right now.
-
-
-Name:  dad Age:  50 Thirst:  18 Hunger:  10
+Name:  dad Age:  49 Thirst:  20 Hunger:  20
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  51 Thirst:  36 Hunger:  26
+Name:  mum Age:  50 Thirst:  18 Hunger:  28
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  50 Thirst:  18 Hunger:  18
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  51 Thirst:  16 Hunger:  26
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  dad Age:  51 Thirst:  16 Hunger:  16
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  52 Thirst:  24 Hunger:  24
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  52 Thirst:  14 Hunger:  14
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  51 Thirst:  16 Hunger:  18
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  52 Thirst:  34 Hunger:  24
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  52 Thirst:  14 Hunger:  16
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  mum Age:  53 Thirst:  32 Hunger:  22
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  dad Age:  53 Thirst:  22 Hunger:  14
-None
-I cant find any water right now.
-
-
-Name:  mum Age:  54 Thirst:  30 Hunger:  20
+Name:  mum Age:  53 Thirst:  22 Hunger:  22
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  54 Thirst:  20 Hunger:  12
+Name:  dad Age:  53 Thirst:  12 Hunger:  22
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  54 Thirst:  20 Hunger:  20
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  54 Thirst:  10 Hunger:  20
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  55 Thirst:  18 Hunger:  18
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  dad Age:  55 Thirst:  18 Hunger:  18
+None
+I cant find any water right now.
+
+
+Name:  mum Age:  56 Thirst:  16 Hunger:  16
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  55 Thirst:  28 Hunger:  28
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  55 Thirst:  18 Hunger:  10
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  56 Thirst:  26 Hunger:  26
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  dad Age:  56 Thirst:  16 Hunger:  8
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  mum Age:  57 Thirst:  34 Hunger:  24
-None
-I cant find any water right now.
-
-
-Name:  dad Age:  57 Thirst:  14 Hunger:  6
+Name:  dad Age:  56 Thirst:  16 Hunger:  16
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  58 Thirst:  32 Hunger:  22
+Name:  mum Age:  57 Thirst:  14 Hunger:  24
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  57 Thirst:  14 Hunger:  14
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  58 Thirst:  12 Hunger:  22
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  dad Age:  58 Thirst:  12 Hunger:  12
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  59 Thirst:  20 Hunger:  20
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  59 Thirst:  10 Hunger:  10
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  58 Thirst:  12 Hunger:  14
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  59 Thirst:  30 Hunger:  20
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  59 Thirst:  10 Hunger:  12
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  mum Age:  60 Thirst:  28 Hunger:  18
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  dad Age:  60 Thirst:  18 Hunger:  10
-None
-I cant find any water right now.
-
-
-Name:  mum Age:  61 Thirst:  26 Hunger:  16
+Name:  mum Age:  60 Thirst:  18 Hunger:  18
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  61 Thirst:  16 Hunger:  8
+Name:  dad Age:  60 Thirst:  8 Hunger:  18
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  61 Thirst:  16 Hunger:  16
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  61 Thirst:  6 Hunger:  16
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  62 Thirst:  14 Hunger:  14
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  dad Age:  62 Thirst:  14 Hunger:  14
+None
+I cant find any water right now.
+
+
+Name:  mum Age:  63 Thirst:  12 Hunger:  12
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  62 Thirst:  24 Hunger:  24
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  62 Thirst:  14 Hunger:  6
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  63 Thirst:  22 Hunger:  22
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  dad Age:  63 Thirst:  12 Hunger:  4
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  mum Age:  64 Thirst:  30 Hunger:  20
-None
-I cant find any water right now.
-
-
-Name:  dad Age:  64 Thirst:  10 Hunger:  2
+Name:  dad Age:  63 Thirst:  12 Hunger:  12
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  65 Thirst:  28 Hunger:  18
+Name:  mum Age:  64 Thirst:  10 Hunger:  20
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  64 Thirst:  10 Hunger:  10
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  65 Thirst:  8 Hunger:  18
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  dad Age:  65 Thirst:  8 Hunger:  8
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  66 Thirst:  16 Hunger:  16
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  66 Thirst:  6 Hunger:  6
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  65 Thirst:  8 Hunger:  10
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  66 Thirst:  26 Hunger:  16
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  66 Thirst:  6 Hunger:  8
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  mum Age:  67 Thirst:  24 Hunger:  14
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  dad Age:  67 Thirst:  14 Hunger:  6
-None
-I cant find any water right now.
-
-
-Name:  mum Age:  68 Thirst:  22 Hunger:  12
+Name:  mum Age:  67 Thirst:  14 Hunger:  14
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  dad Age:  68 Thirst:  12 Hunger:  4
+Name:  dad Age:  67 Thirst:  4 Hunger:  14
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  68 Thirst:  12 Hunger:  12
+None
+I cant find any food right now.
+
+
+Name:  dad Age:  68 Thirst:  2 Hunger:  12
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  mum Age:  69 Thirst:  10 Hunger:  10
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  dad Age:  69 Thirst:  10 Hunger:  10
+None
+I cant find any water right now.
+
+
+Name:  mum Age:  70 Thirst:  8 Hunger:  8
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-Name:  mum Age:  69 Thirst:  20 Hunger:  20
-None
-I cant find any food right now.
-
-
-Name:  dad Age:  69 Thirst:  10 Hunger:  2
-None
-I cant find any food right now.
-
-
-Name:  mum Age:  70 Thirst:  18 Hunger:  18
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-Name:  dad Age:  70 Thirst:  8 Hunger:  0
-None
-I drink some water. Yum..That was refreshing.
-
-
-Name:  mum Age:  71 Thirst:  26 Hunger:  16
-None
-I cant find any water right now.
-
-
-I'm sorry, but dad died. He died at age:  71
-Name:  dad Age:  71 Thirst:  8 Hunger:  0
-None
-
-
-Name:  mum Age:  72 Thirst:  24 Hunger:  14
+Name:  dad Age:  70 Thirst:  8 Hunger:  8
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
+Name:  mum Age:  71 Thirst:  6 Hunger:  16
+None
+I cant find any food right now.
 
 
-Name:  mum Age:  73 Thirst:  22 Hunger:  22
+Name:  dad Age:  71 Thirst:  6 Hunger:  6
+None
+I cant find any food right now.
+
+
+Name:  mum Age:  72 Thirst:  4 Hunger:  14
+None
+I drink some water. Yum..That was refreshing.
+I cant find any food right now.
+
+
+Name:  dad Age:  72 Thirst:  4 Hunger:  4
+None
+I drink some water. Yum..That was refreshing.
+
+
+Name:  mum Age:  73 Thirst:  12 Hunger:  12
+None
+I cant find any water right now.
+
+
+Name:  dad Age:  73 Thirst:  2 Hunger:  2
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-
-
-Name:  mum Age:  74 Thirst:  20 Hunger:  20
-None
-I cant find any food right now.
-
-
-
-
-Name:  mum Age:  75 Thirst:  18 Hunger:  18
-None
-I cant find any food right now.
-
-
-
-
-Name:  mum Age:  76 Thirst:  16 Hunger:  16
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-
-
-Name:  mum Age:  77 Thirst:  24 Hunger:  14
-None
-I drink some water. Yum..That was refreshing.
-
-
-
-
-Name:  mum Age:  78 Thirst:  22 Hunger:  12
-None
-I cant find any water right now.
-
-
-
-
-Name:  mum Age:  79 Thirst:  20 Hunger:  10
+Name:  mum Age:  74 Thirst:  10 Hunger:  10
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
 
 
-
-
-Name:  mum Age:  80 Thirst:  18 Hunger:  18
-None
-I cant find any water right now.
-I eat some food. Yum..That was tasty.
-
-
-
-
-Name:  mum Age:  81 Thirst:  16 Hunger:  16
+Name:  dad Age:  74 Thirst:  0 Hunger:  10
 None
 I cant find any food right now.
 
 
-
-
-Name:  mum Age:  82 Thirst:  14 Hunger:  14
+Name:  mum Age:  75 Thirst:  8 Hunger:  8
 None
 I cant find any food right now.
 
 
+I'm sorry, but dad died. He died at age:  75
+Name:  dad Age:  75 Thirst:  0 Hunger:  10
+None
 
 
-Name:  mum Age:  83 Thirst:  12 Hunger:  12
+Name:  mum Age:  76 Thirst:  6 Hunger:  6
 None
 I drink some water. Yum..That was refreshing.
 I cant find any food right now.
@@ -872,21 +832,21 @@ I cant find any food right now.
 
 
 
-Name:  mum Age:  84 Thirst:  20 Hunger:  10
+Name:  mum Age:  77 Thirst:  14 Hunger:  4
 None
 I drink some water. Yum..That was refreshing.
 
 
 
 
-Name:  mum Age:  85 Thirst:  18 Hunger:  8
+Name:  mum Age:  78 Thirst:  12 Hunger:  2
 None
 I cant find any water right now.
 
 
 
 
-Name:  mum Age:  86 Thirst:  16 Hunger:  6
+Name:  mum Age:  79 Thirst:  10 Hunger:  0
 None
 I cant find any water right now.
 I eat some food. Yum..That was tasty.
@@ -894,104 +854,8 @@ I eat some food. Yum..That was tasty.
 
 
 
-Name:  mum Age:  87 Thirst:  14 Hunger:  14
-None
-I cant find any water right now.
-I eat some food. Yum..That was tasty.
-
-
-
-
-Name:  mum Age:  88 Thirst:  12 Hunger:  12
-None
-I cant find any food right now.
-
-
-
-
-Name:  mum Age:  89 Thirst:  10 Hunger:  10
-None
-I cant find any food right now.
-
-
-
-
-Name:  mum Age:  90 Thirst:  8 Hunger:  8
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-
-
-Name:  mum Age:  91 Thirst:  16 Hunger:  6
-None
-I drink some water. Yum..That was refreshing.
-
-
-
-
-Name:  mum Age:  92 Thirst:  14 Hunger:  4
-None
-I cant find any water right now.
-
-
-
-
-Name:  mum Age:  93 Thirst:  12 Hunger:  2
-None
-I cant find any water right now.
-I eat some food. Yum..That was tasty.
-
-
-
-
-Name:  mum Age:  94 Thirst:  10 Hunger:  10
-None
-I cant find any water right now.
-I eat some food. Yum..That was tasty.
-
-
-
-
-Name:  mum Age:  95 Thirst:  8 Hunger:  8
-None
-I cant find any food right now.
-
-
-
-
-Name:  mum Age:  96 Thirst:  6 Hunger:  6
-None
-I cant find any food right now.
-
-
-
-
-Name:  mum Age:  97 Thirst:  4 Hunger:  4
-None
-I drink some water. Yum..That was refreshing.
-I cant find any food right now.
-
-
-
-
-Name:  mum Age:  98 Thirst:  12 Hunger:  2
-None
-I drink some water. Yum..That was refreshing.
-
-
-
-
-Name:  mum Age:  99 Thirst:  10 Hunger:  0
-None
-I cant find any water right now.
-
-
-
-
-I'm sorry, but mum died. she died at age:  100
-Name:  mum Age:  100 Thirst:  10 Hunger:  0
+I'm sorry, but mum died. she died at age:  80
+Name:  mum Age:  80 Thirst:  10 Hunger:  10
 None
 
 

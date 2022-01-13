@@ -11,5 +11,5 @@ def findOnScreen(findImage): #click, numClick):
     print(postition)
  
  
-sleep(2)   
-findOnScreen('menu-button.png')
+sleep(1)   
+findOnScreen('menuButton.png')

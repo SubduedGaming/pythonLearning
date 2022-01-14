@@ -12,4 +12,4 @@ def findOnScreen(findImage): #click, numClick):
  
  
 sleep(1)   
-findOnScreen('menuButton.jpg')
+findOnScreen("./images/menuButton.png")

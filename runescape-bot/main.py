@@ -6,10 +6,11 @@ pt.FAILSAFE = True
 mouseDuration = 2 # Mouse move time (Seconds)
 
 def findOnScreen(findImage): #click, numClick):
-    postition = pt.locateCenterOnScreen(findImage)
+    postition = pt.locateOnScreen(findImage, grayscale=True, confidence=.5)
     
     print(postition)
  
  
-sleep(1)   
-findOnScreen('menuButton.jpg')
+sleep(5)
+image = 'images/playNow.png'
+findOnScreen(image)

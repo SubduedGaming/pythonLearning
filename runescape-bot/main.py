@@ -6,7 +6,7 @@ pt.FAILSAFE = True
 mouseDuration = 2 # Mouse move time (Seconds)
 
 def findOnScreen(findImage): #click, numClick):
-    postition = pt.locateCenterOnScreen(findImage, confidence=.3)
+    postition = pt.locateCenterOnScreen(findImage, confidence=.5)
     sleep(1)
     pt.moveTo(postition)
     #print(postition, mouseDuration)
@@ -16,3 +16,5 @@ def findOnScreen(findImage): #click, numClick):
 sleep(5)
 image = 'images/playNow.png'
 findOnScreen(image)
+pt.click()
+#pyautogui.moveTo(100, 100, 2) #Move to X=100, Y=100 over a 2 seconds period

@@ -2,19 +2,31 @@ import pyautogui as pt
 from time import sleep
 import cv2 as cv
 
+
 pt.FAILSAFE = True
 mouseDuration = 2 # Mouse move time (Seconds)
 
-def findOnScreen(findImage): #click, numClick):
-    postition = pt.locateCenterOnScreen(findImage, confidence=.5)
+def findOnScreen(findImage, click): #click, numClick):
+    pos = pt.locateCenterOnScreen(findImage, confidence=.8)
     sleep(1)
-    pt.moveTo(postition)
-    #print(postition, mouseDuration)
-    sleep(1)
+    if pos is None:
+        print("Failed to locate image")
+        break
+    elif pos is not None
+        if click == "left":
+            pt.moveTo(pos, duration=0.5)
+            sleep(.2)
+            pt.click()
+        if click == "right":
+            pt.moveTo(pos, duration=0.5)
+            sleep(.2)
+            pt.click()
+    
  
- 
-sleep(5)
-image = 'images/playNow.png'
-findOnScreen(image)
-pt.click()
-#pyautogui.moveTo(100, 100, 2) #Move to X=100, Y=100 over a 2 seconds period
+def main():
+    sleep(3)
+    image = 'images/playNow.png'
+    leftClick(2, findOnScreen(image))
+    
+main()
+    
